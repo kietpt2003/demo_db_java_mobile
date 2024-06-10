@@ -7,7 +7,7 @@ import java.sql.DriverManager;
 import java.util.Objects;
 
 public class ConnectionClass {
-    protected static String db = "ihrms";
+    protected static String db = "demo_db";
     protected static String ip = "10.0.2.2";
     protected static String port = "3306";
     protected static String username = "root";
